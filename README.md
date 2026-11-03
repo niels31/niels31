@@ -23,8 +23,8 @@ Supports de soutenance : [diapos](supports_soutenance.pdf)
 Dans le cadre du master IGAST, j'ai mené, avec &Eacute;léonore Lagourgue et Quentin Rameau-Quinchon, un projet d'analyse spatiale consistant à étudier le report modal train/voiture dans la région de Troyes et Auxerre dans un scénario de réouverture d'une voie désaffectée.  
 Ce projet s'est appuyé principalement sur de l'analyse de graphe de transport et une modélisation des choix individuels fondée sur la théorie économétrique des choix discrets.  
 Dépôt du projet : [projet_as](https://www.github.com/niels31/projet_as)  
+[Rapport](rapport_projet_as.pdf)  
 Supports de soutenance : [diapos](supports_projet_as.pdf)  
-[Rapport détaillé](rapport_projet_as.pdf)
 
 # Projet segmentation sémantique par apprentissage profond d'images satellitaires <a id="unet"></a>
 
